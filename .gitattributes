@@ -1,4 +1,1 @@
 *.3 linguist-language=Python
-
-# Replace any whitespace in the language name with hyphens:
-*.glyphs linguist-language=OpenStep-Property-List
